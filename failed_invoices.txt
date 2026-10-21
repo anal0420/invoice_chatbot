@@ -1,0 +1,3 @@
+INV-2025-1013_duplicate_scan_from_email.pdf: ERROR: duplicate key value violates unique constraint "invoices_invoice_number_key"
+statement_C003_2025_Q3.pdf: ERROR: Pattern not found: (?:INVOICE|CREDIT MEMO)\s+((?:INV|CM)-\d{4}-\d+(?:-R\d+)?)
+statement_C007_2025_Q4.pdf: ERROR: Pattern not found: (?:INVOICE|CREDIT MEMO)\s+((?:INV|CM)-\d{4}-\d+(?:-R\d+)?)
